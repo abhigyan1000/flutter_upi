@@ -80,7 +80,8 @@ The `response` String can contain any of the following strings as well.
 `user_canceled` : User canceled the flow.
 
 `null_response` : No data received.
-
+IF YOU FACE ANY DIFFICULTY DON'T HESITATE TO CONTACT ME. 
+THANKS.
 
 You need to write your own code to handle these responses in your app. Check out the example folder for more implementation details.
 
